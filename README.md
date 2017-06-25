@@ -21,3 +21,5 @@ StartupNotify=true
 Encoding=UTF-8
 Categories=Tools
 ~~~~
+
+Save the file as `usr/share/applications/tidyDesktop.desktop`. 
