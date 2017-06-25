@@ -1,0 +1,5 @@
+#!/bin/bash
+# file: tidyDesktop
+# purpose: Move all files From the desktop to the Trash
+# also try gvfs-ls or gvfs-trash --empty
+gvfs-trash ~/Skrivebord/*

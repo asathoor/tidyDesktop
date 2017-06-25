@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=TidyDesktop
+Version=1.0
+Exec=tidyDesktop
+Comment=One click: move all desktop files to trash.
+Icon=terminal
+Type=Application
+Terminal=true
+StartupNotify=true
+Encoding=UTF-8
+Categories=Tools
+
